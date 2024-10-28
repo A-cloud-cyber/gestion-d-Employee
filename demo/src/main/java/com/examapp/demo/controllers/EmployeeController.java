@@ -1,5 +1,6 @@
 package com.examapp.demo.controllers;
 
+import com.examapp.demo.dto.EmployeeResponseDto;
 import com.examapp.demo.service.EmployeeService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
